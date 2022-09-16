@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelipeArenasUribe
 - 👀 I’m interested in Aerospace and Mechanical Engineering
-- 💞️ I’m looking to collaborate on Electric vehicles development and control systems
+- 💞️ I’m looking to collaborate on Electric vehicles development, Robotics and Spacecraft design :)
 - 📫 How to reach me felipearenasuribe@gmail.com
 
 <!---
