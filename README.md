@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FelipeArenasUribe
 - 👀 I’m interested in Aerospace and Mechanical Engineering
 - 🚀 I’m looking to collaborate on GN&C for spacecraft, robotics and autonomous vehicles.
-- 📫 How to reach me felipearenasuribe@gmail.com
+- 📫 How to reach me felipearur@uky.edu
 
 <!---
 FelipeArenasUribe/FelipeArenasUribe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
